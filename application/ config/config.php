@@ -16,7 +16,7 @@ class Db
 
         $host = '127.0.0.1';
         $user_name = 'root';
-        $db_name = 'mvc2';
+        $db_name ='mvc';
         $password = '';
         //инициируем новое подключение
         $db = new mysqli($host, $user_name, $password, $db_name);
