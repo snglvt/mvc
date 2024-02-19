@@ -2,4 +2,4 @@
 
 Реализована самописная MVC.
 
-Бэкенд: PHP, MySQL, Apache Фронтенд: Smarty
+Бэкенд: PHP, MySQL, Apache Фронтенд: Smarty, Bootstrap
